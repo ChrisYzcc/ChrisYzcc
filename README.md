@@ -1,5 +1,13 @@
-### Hi there 👋
+## Hi there 👋
+👀
+### About Me
+* 📚 An undergraduate majoring CS in UCAS  
+* 🖥️ Interested in computer architecture  
+* ⚽ Fan of Real Madrid CF
 
+### Current Work
+* 📂 Developing a toy RISCV CPU core (<https://ysyx.oscc.cc/>)
+* 📑 XS-MLVP
 <!--
 **yzcccccccccc/yzcccccccccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
