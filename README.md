@@ -6,8 +6,8 @@
 * ⚽ Fan of Real Madrid CF
 
 ### Current Work
-* 📂 Developing a toy RISC-V CPU core (<https://ysyx.oscc.cc/>)
-* 📑 XS-MLVP
+* 📂 ~~Developing a toy RISC-V CPU core (<https://ysyx.oscc.cc/>)~~
+* 📑 ~~XS-MLVP~~
 <!--
 **yzcccccccccc/yzcccccccccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
