@@ -6,9 +6,10 @@
 * ⚽ Fan of Real Madrid CF
 
 ### Current Work
-* 📂 ~~Developing a toy RISC-V CPU core (<https://ysyx.oscc.cc/>)~~
-* 📑 ~~XS-MLVP~~
-* ☠️ Busy with his graduation thesis currently...
+* 📂 Developing a toy RISC-V CPU core (<https://ysyx.oscc.cc/>)
+* 🔧 OpenXiangShan (<https://github.com/OpenXiangShan/XiangShan>)
+* 📑 UnityChip (<https://open-verify.cc/en/>)
+
 <!--
 **yzcccccccccc/yzcccccccccc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
